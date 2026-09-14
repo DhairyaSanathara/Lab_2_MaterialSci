@@ -1,0 +1,25 @@
+Version: 1.1.1
+Comment:
+End
+Filter:
+	Substrate: BK7 1000000.000000
+	FrontMedium: void
+	BackMedium: void
+	CenterWavelength: 550.000000
+	WavelengthRange: 300.000000 900.000000 1.000000
+	DontConsiderSubstrate: 0
+	StepSpacing: 0.010000
+	MinimumThickness: 0.000000
+	Illuminant: CIE-D65
+	Observer: CIE-1931
+	ConsiderBackside: 1
+	EllipsometerType: 1
+	DeltaMin: -90.000000
+	ConsiderBacksideOnMonitoring: 1
+	MonitoringEllipsometerType: 1
+	MonitoringDeltaMin: -90.000000
+	MonitoringSublayerThickness: 1.000000
+	FrontLayer: ZnO_Querry 100.000000
+	RefineThickness: 1
+	AddNeedles: 1
+End
